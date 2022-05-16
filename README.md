@@ -1,4 +1,5 @@
 # Teeluxe
-  Features
+  Features:
 Home
 About us
+Contact us
